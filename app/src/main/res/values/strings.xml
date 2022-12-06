@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tic">TicTacToe Game</string>
+    <string name="grid">our main grid</string>
+    <string name="o1">one1</string>
+    <string name="o2">one2</string>
+    <string name="o3">one3</string>
+    <string name="o4">one4</string>
+    <string name="o5">one5</string>
+    <string name="o6">one6</string>
+    <string name="o7">one7</string>
+    <string name="o8">one8</string>
+    <string name="o9">one9</string>
+    <string name="ply1">Player 1 Turn</string>
+    <string name="ply2">Player 2 Turn</string>
+    <string name="win1">Player 1 Won the match</string>
+    <string name="win2">Player 2 Won the match</string>
+    <string name="reset">Reset</string>
+</resources>
